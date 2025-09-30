@@ -1,4 +1,4 @@
 # To-Do List
-- [ ] Learn how to make commits
+- [x] Learn how to make commits ✅
 - [ ] Finish homework
 - [ ] Call a friend
